@@ -204,7 +204,7 @@ audit-predict-future-challenge/
 
 Este relatório fornece uma análise completa do contrato `contrato.sol`. As vulnerabilidades identificadas são sérias e requerem remediação.
 
-
+##  link da tarefa utilizado https://capturetheether.com/challenges/lotteries/predict-the-future/
 
 ---
 
